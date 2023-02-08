@@ -1,0 +1,15 @@
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/dto/RequestCuentaCorriente.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/dto/ResponseCuentaCorriente.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/controller/CuentaAhorroControllerRest.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/service/CadenaService.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/repositories/ICuentaAhorroRepo.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/PruebaApplication.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/dto/RequestCadena.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/repositories/ICuentaCorrienteRepo.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/model/CuentaCorriente.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/service/CuentaCorrienteService.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/dto/ResponseError.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/dto/ResponseCadena.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/model/CuentaAhorro.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/controller/CadenaControllerRest.java
+/Users/daniel/Desktop/Prueba/prueba/src/main/java/com/novabase/prueba/controller/CuentaCorrienteControllerRest.java
